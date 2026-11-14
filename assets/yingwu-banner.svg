@@ -1,51 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="314" viewBox="0 0 1200 314" role="img" aria-labelledby="title desc">
-  <title id="title">Yingwu</title>
-  <desc id="desc">A celestial dark-purple banner with a golden eclipse, introducing systems, worlds, and ideas.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111326"/>
-      <stop offset=".54" stop-color="#241b38"/>
-      <stop offset="1" stop-color="#39223f"/>
-    </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#f5b85c" stop-opacity=".42"/>
-      <stop offset=".52" stop-color="#e77b58" stop-opacity=".14"/>
-      <stop offset="1" stop-color="#c05d87" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#ffe2a0"/>
-      <stop offset=".45" stop-color="#efa75e"/>
-      <stop offset="1" stop-color="#c46b84"/>
-    </linearGradient>
-    <clipPath id="crop"><rect width="1200" height="314" rx="20"/></clipPath>
-  </defs>
-  <g clip-path="url(#crop)">
-    <rect width="1200" height="314" fill="url(#bg)"/>
-    <path d="M0 258 C245 182 335 340 568 272 S1030 175 1200 232 L1200 314 H0Z" fill="#af6c88" opacity=".07"/>
-    <path d="M0 274 C232 204 358 347 600 284 S1034 224 1200 262" fill="none" stroke="#e7bb8c" opacity=".11" stroke-width="1.4"/>
-    <circle cx="972" cy="158" r="252" fill="url(#glow)"/>
-    <circle cx="975" cy="158" r="116" fill="none" stroke="#e5ab83" stroke-opacity=".17" stroke-width="1.2"/>
-    <circle cx="975" cy="158" r="96" fill="none" stroke="url(#ring)" stroke-width="4.5"/>
-    <circle cx="975" cy="158" r="86" fill="#1b1832"/>
-    <circle cx="975" cy="158" r="83" fill="none" stroke="#fff0c5" stroke-opacity=".17" stroke-width="1"/>
-    <path d="M891 151 A84 84 0 0 1 1035 99" fill="none" stroke="#ffdda4" stroke-width="7" stroke-linecap="round" opacity=".82"/>
-    <path d="M1054 184 A84 84 0 0 1 927 227" fill="none" stroke="#de8a82" stroke-width="5" stroke-linecap="round" opacity=".65"/>
-    <ellipse cx="975" cy="158" rx="159" ry="47" fill="none" stroke="#d9a184" stroke-opacity=".34" stroke-width="1.6" transform="rotate(-24 975 158)"/>
-    <circle cx="1113" cy="90" r="4" fill="#fff0bc"/>
-    <circle cx="858" cy="224" r="3" fill="#eeb18e"/>
-    <g fill="#f7dfb4">
-      <path d="M772 72 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z" opacity=".7"/>
-      <path d="M1147 223 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z" opacity=".67"/>
-      <circle cx="720" cy="220" r="1.6" opacity=".55"/>
-      <circle cx="809" cy="40" r="1.7" opacity=".6"/>
-      <circle cx="1166" cy="51" r="1.7" opacity=".7"/>
-      <circle cx="733" cy="145" r="1.2" opacity=".5"/>
-    </g>
-    <rect x="76" y="58" width="43" height="3" rx="1.5" fill="#f5b875"/>
-    <text x="76" y="134" font-family="Arial, Helvetica, sans-serif" font-size="65" font-weight="700" letter-spacing="10" fill="#fcf2e7">YINGWU</text>
-    <text x="79" y="173" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="5" fill="#f0b580">SYSTEMS  /  WORLDS  /  IDEAS</text>
-    <text x="79" y="222" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#d8ccdb">Building useful things, one side quest at a time.</text>
-    <path d="M79 250 H558" stroke="#d4b19e" opacity=".28" stroke-width="1"/>
-    <text x="79" y="274" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#aa9cb9">A CURATED LOOK AT THE WORK IN PROGRESS</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Yingwu — systems, worlds and beautifully complicated ideas</title>
+<desc id="desc">Ceremonial-inspired burgundy, amethyst and gold banner with lanterns, lotus and butterfly ornament. No character portrait.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171020"/><stop offset=".49" stop-color="#301c37"/><stop offset="1" stop-color="#58263c"/></linearGradient>
+<radialGradient id="light"><stop stop-color="#f0bb76" stop-opacity=".44"/><stop offset=".65" stop-color="#ad588d" stop-opacity=".11"/><stop offset="1" stop-color="#ad588d" stop-opacity="0"/></radialGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0c7"/><stop offset=".52" stop-color="#e6ab64"/><stop offset="1" stop-color="#b76c73"/></linearGradient>
+<pattern id="diamond" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M35 0 70 35 35 70 0 35Z" fill="none" stroke="#ead09d" stroke-opacity=".055"/></pattern>
+<clipPath id="clip"><rect width="1200" height="330" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="330" fill="url(#bg)"/>
+<rect width="1200" height="330" fill="url(#diamond)"/>
+<circle cx="1013" cy="168" r="220" fill="url(#light)"/>
+<path d="M17 18 H1183 V312 H17Z" fill="none" stroke="#dcb478" stroke-opacity=".29" stroke-width="1.5"/>
+<path d="M31 34 H1169 M31 296 H1169" stroke="#dcb478" stroke-opacity=".13" />
+<g stroke="#f2ce91" fill="none" stroke-width="2">
+<path d="M1070 0 v57 M1060 58 h20 l8 13 -4 53 q-14 11 -28 0 l-4 -53z" stroke-opacity=".63"/>
+<path d="M1063 74 Q1070 62 1077 74 v39 h-14z" fill="#e6a563" fill-opacity=".32" stroke-opacity=".4"/>
+<path d="M1070 124 v19 M1057 98 h26" stroke-opacity=".4"/>
+<path d="M1145 0 v85 M1134 86 h22 l8 11 -4 43 q-15 10 -31 0 l-4 -43z" stroke-opacity=".46"/>
+<path d="M1137 100 Q1145 90 1153 100 v29 h-16z" fill="#e6a563" fill-opacity=".2" stroke-opacity=".25"/>
+</g>
+<g transform="translate(927 164)" stroke="url(#gold)" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<circle r="120" stroke-width="1" stroke-opacity=".35"/>
+<circle r="105" stroke-width="2" stroke-opacity=".45"/>
+<path d="M0 -72 C-18 -101 -43 -105 -64 -86 C-78 -73 -81 -46 -47 -21 C-84 -18 -102 15 -84 42 C-62 74 -24 50 0 9 C24 50 62 74 84 42 C102 15 84 -18 47 -21 C81 -46 78 -73 64 -86 C43 -105 18 -101 0 -72Z" fill="#df956e" fill-opacity=".12" stroke-width="3"/>
+<path d="M0 -72 C-4 -43 -10 -12 0 9 C10 -12 4 -43 0 -72Z M0 9 C-15 -10 -34 -31 -47 -21 M0 9 C15 -10 34 -31 47 -21 M-52 -66 -16 -17 M52 -66 16 -17 M-73 31 -14 7 M73 31 14 7" stroke-opacity=".7"/>
+<path d="M0 12 C-7 35 -5 51 0 67 C5 51 7 35 0 12Z" fill="#e9a86f" fill-opacity=".35"/>
+<path d="M-18 63 Q0 89 18 63 M-18 63 L-28 83 M18 63 L28 83" stroke-width="1.4" stroke-opacity=".68"/>
+</g>
+<g fill="#f5d5a0">
+<path d="m733 66 5 12 12 5 -12 5 -5 12 -5 -12 -12 -5 12 -5z" opacity=".55"/>
+<path d="m812 264 3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z" opacity=".5"/>
+<circle cx="695" cy="211" r="2" opacity=".5"/><circle cx="755" cy="128" r="2" opacity=".5"/>
+</g>
+<path d="M72 62h80" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+<text x="72" y="136" font-family="Georgia, 'Times New Roman', serif" font-size="79" font-weight="700" letter-spacing="7" fill="#fff1e1">Yingwu</text>
+<text x="75" y="173" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="15" letter-spacing="4.3" fill="#f4c184">SYSTEMS  ·  WORLDS  ·  IDEAS</text>
+<text x="75" y="225" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#eee0e8">Making hard things feel effortless.</text>
+<path d="M75 252 H631" stroke="#dba87e" stroke-opacity=".45"/>
+<text x="75" y="277" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.8" fill="#c5aecb">CURIOUS QUESTIONS. VERY SERIOUS ENGINEERING.</text>
+</g>
 </svg>
