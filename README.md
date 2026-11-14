@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/yingwu-banner.svg" width="100%" alt="Yingwu — systems, worlds and ideas. Making hard things feel effortless. A plum-and-gold ceremonial banner with butterfly and lantern motifs." />
+  <img src="./assets/yingwu-banner.png" width="100%" alt="Yingwu — Productivity, Creativity and Convenience. Making hard things feel effortless. Ceremonial-inspired plum-and-gold artwork with a phoenix banner, lotus, lanterns, cherry blossoms and an under-construction notice." />
 </p>
 
 <p align="center">
@@ -243,3 +243,6 @@ The resulting day-to-day tools are meant to run **without needing an ongoing cha
   <strong>Curiosity gets it started. The contingency plans make it worth using.</strong><br />
   <sub>Portfolio profile in active curation · Private source repositories stay private.</sub>
 </p>
+
+
+<!-- FINAL PORTFOLIO CLEANUP: Once all missing-data warnings are resolved and the public inventory is verified, remove the UNDER CONSTRUCTION text from the banner artwork as the LAST finishing step. Preserve the approved banner design; replace only that notice. -->
