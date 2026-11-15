@@ -75,38 +75,42 @@ The hierarchy matters more than the repository count: one private codebase can p
 
 **The premise:** day-to-day work should not require a degree in deciphering spreadsheets.
 
-A connected suite of operational tools that makes information easier to find, routine actions easier to complete and complicated processes easier to run reliably. The interfaces are intended to be uncomplicated; the infrastructure behind them very much isn't.
+What started as Google Sheets, workplace utilities and manually launched Slack Workflows has grown into **StenTeam Hub Portal (STHP)**: one connected workplace interface designed to make routine operations easier, more consistent and less prone to accidental mistakes.
 
-**The system at a glance:**
+**The portal at a glance:**
 
-`Hub Portal` · `Check-in` · `Daily Routine` · `Operational dashboards` · `Data bridge` · `Quality checks` · `QR tools` · `Print tools` · `Audits` · `Workflow integrations`
+| Area | What it does |
+| :--- | :--- |
+| **Sheets** | Familiar spreadsheets rebuilt as dedicated, more robust interfaces that help prevent incorrect edits. |
+| **Tools** | Practical utilities for everyday workplace tasks. |
+| **Workflows** | Existing Slack Workflows launched from the portal via webhooks instead of manually. |
 
 <details>
-<summary><strong>EXPAND THE STENTEAM SYSTEM MAP · Applications and components</strong></summary>
+<summary><strong>EXPAND THE STENTEAM HUB PORTAL · 13 modules across 3 areas</strong></summary>
 
 <br />
 
-| Application / family | What it contributes |
-| :--- | :--- |
-| **STHP — StenTeam Hub Portal** | The unified, role-aware workplace interface and daily operating experience. |
-| **STDB — Data Bridge** | Controlled connections between familiar operational spreadsheets and the newer interface. |
-| **STQI — Quality & Integrity** | Checks, status visibility and mechanisms for keeping operational information dependable. |
-| **STOD — Operations Dashboard** | Focused operational reporting and current/historical overviews. |
-| **STQR — QR Services** | QR generation and supporting scanning/diagnostic tools. |
-| **STPO — Print & Output** | Generation and handling of practical printable operational documents. |
-| **STAC — Audit Checklist** | Structured, recurring operational audit support. |
-| **Check-in, Daily Routine & Lekkerland** | Daily operational workflows, editing interfaces and status handling. |
-| **Slack & webhooked workflows** | Integrations connecting existing workplace processes with the broader system. |
-| **Shared foundations** | Authentication, permissions, synchronization, validation, monitoring, fallbacks and release discipline. |
-
-**Level 0:** StenTeam → **Level 1:** Hub and companion systems → **Level 2:** Operational screens, integrations, safeguards and background services.
-
-Different components have different release states; listing a system here does **not** mean every feature is publicly available or production-ready.
+| Area | Module | What it does |
+| :--- | :--- | :--- |
+| **Sheets** | **Lekkerland** | Manage supplier-related operational records. |
+| | **Check-in List** | Organize shift check-ins and attendance information. |
+| | **Daily Routine** | Keep recurring daily tasks organized. |
+| | **Post Delivery Issues** | Record and follow up on delivery issues. |
+| **Tools** | **Dashboard** | Present useful operational information in one overview. |
+| | **QR Codes** | Create QR codes for everyday workplace use. |
+| | **Audit** | Guide and record routine operational checks. |
+| | **Print-Outs** | Prepare practical documents for printing. |
+| | **To Do** | Organize tasks and follow-up items. |
+| | **STQI Status** | View the status of the Quinyx Importer, which uses a Quinyx export to load schedules. |
+| | **Bridge** | Connect existing operational records with the portal. |
+| **Workflows** | **Red Flags** | Start a Slack workflow to flag issues needing attention. |
+| | **Sick Leaves** | Start a Slack workflow for absence reporting. |
 
 </details>
 
-> [!WARNING]
-> **DATA MISSING — STENTEAM COUNT:** Verify the number of distinct applications, major modules, workflows, integrations and operational screens. Also confirm which subsystem names/descriptions may be mentioned publicly. **DO NOT TURN AN UNVERIFIED COUNT INTO A CLAIM.**
+Behind the visible modules, supporting applications keep the experience connected. The public overview focuses on **what each module helps people do**, rather than exposing internal processes or implementation details.
+
+*These are 13 visible portal destinations, not a claim of 13 separately deployed applications. Individual components may have different release states.*
 
 ### 02 · Azalea Antiquary
 
