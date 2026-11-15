@@ -27,21 +27,39 @@ My projects tend to begin with *"I wonder if that's possible..."* and rapidly be
 
 ## ✦ Things I've used
 
-Not a list of everything I claim to have mastered: these are technologies, platforms and approaches that actually appear in the work.
+I've spent years working with software from both sides: **using it to solve real problems**, then improving the workflows around it, and sometimes building something new when the existing tools couldn't quite do the job.
 
-| Area | Tools and technologies |
+The quick version stays short on purpose. The longer inventory is tucked away for fellow software archaeologists.
+
+| Family | A few familiar faces |
 | :--- | :--- |
-| ☁️ **Cloudflare** | `Workers` `Pages` `D1` `Durable Objects` `KV` |
-| 💻 **Web and scripting** | `JavaScript` `HTML` `CSS` `SQL` `Google Apps Script` `LSL / Second Life` |
-| 📊 **Office and operations** | `Excel` `Google Sheets` `Microsoft Office` `Slack` `Webhooks` |
-| 🔧 **Development and delivery** | `GitHub` `GitHub Actions` `Version control` `Automated checks` `Release documentation` |
-| 🤝 **AI-assisted development** | `ChatGPT` `Research` `Implementation support` `Debugging` `Testing` `Documentation` |
+| ☁️ **Software & Cloud Engineering** | `Cloudflare` · `JavaScript` · `SQL` · `Apps Script` · `GitHub` · `LSL` |
+| 📊 **Office, Data & Modelling** | `Excel` · `Microsoft 365` · `Google Workspace` · `VBA` · `Visio` · `Gliffy` |
+| 🧾 **Business Systems & Automation** | `Unit4` · `Audition` · `Elvy` · `BPM` · `Moneybird` · `Exact` |
+| 🤝 **Workplace & Collaboration** | `Slack` · `Quinyx` · `Discord webhooks` · `Jira` · `Asana` |
+| 🎵 **Music & Audio Production** | `3MLE` · `MAGIX Music Maker` · `Guitar Pro 5` · `Audacity` |
+| 🎨 **Visual Design & Broadcasting** | `Photopea` · `LunaPic` · `Canva` · `OBS Studio` · `VTube Studio` |
+| 📺 **Media & Personal Utilities** | `Plex` · `MusicBee` · `VLC` · `FreeFileSync` · `Spotify` |
+
+<details>
+<summary><strong>EXPAND THE FULL TOOLKIT · Yes, there really is more</strong></summary>
+
+<br />
+
+| Family | Software, tools & platforms I've used |
+| :--- | :--- |
+| ☁️ **Software & Cloud Engineering** | **Cloud:** Cloudflare Workers, Pages, D1, Durable Objects, KV.<br />**Web & scripting:** JavaScript, HTML, CSS, SQL, Google Apps Script, LSL (Second Life's event-driven scripting language).<br />**Editors & delivery:** Notepad++, Visual Studio, GitHub, GitHub Actions. |
+| 📊 **Office, Data & Modelling** | **Microsoft ecosystem:** Excel, Word, PowerPoint, Outlook, Teams, OneDrive, Access, Visio, Publisher, Project, Office 365; VBA / Excel macros.<br />**Google ecosystem:** Sheets, Docs, Forms, Slides, Drive.<br />**Reporting & modelling:** Looker Studio, Gliffy, BWise (nested flowchart/process modelling). |
+| 🧾 **Business Systems & Automation** | **ERP & bookkeeping:** Unit4 ERP, Moneybird, SAP ERP, AFAS, Exact Globe, Exact Online.<br />**Reporting & business workflows:** Unit4 Audition (linked-code reporting), Unit4 Task Manager / BPM Server (rules and automation).<br />**Document capture & retail:** Elvy (OCR and rule-based document processing), uniCenta oPOS, ETC Domino. |
+| 🤝 **Workplace & Collaboration** | **Operations & communication:** Slack, Slack Workflows, Quinyx, Discord webhooks.<br />**Planning, tickets & support:** Jira, Asana, Airtable, Zendesk.<br />**Time tracking:** Kimai. |
+| 🎵 **Music & Audio Production** | 3MLE, MAGIX Music Maker, Finale NotePad, Guitar Pro 5, Audacity, MuseScore. |
+| 🎨 **Visual Design & Broadcasting** | **Image editing & design:** GIMP, Photopea, LunaPic, Canva.<br />**Broadcast & VTuber:** OBS Studio, VTube Studio, Stream Deck, FugiTech.<br />**Alerts, bots & community:** Streamlabs **Alerts** (not Streamlabs Desktop), Triggerfyre, Streamcord, Fossabot, Nightbot (historical), Ticket Tool, Seen, Twitch.Guru (historical), RankOne.<br />**Viewer interaction, merch & support:** Blerp, Boss Battles, Sound Alerts, Streamloots, FourthWall, Throne, Add to Throne.<br />**Game/stream integration:** Chorus Encore (Clone Hero). |
+| 📺 **Media & Personal Utilities** | Plex, MusicBee, VLC Media Player, FreeFileSync, Spotify.<br />**Possibly:** Soundiiz (older music-to-Spotify playlist transfer; exact historical tool still to confirm). |
+
+</details>
 
 > [!NOTE]
-> This is a practical-toolkit inventory, not a certification list. I care much more about whether something works, can be understood and can be maintained than whether its buzzwords look impressive.
-
-> [!WARNING]
-> **DATA MISSING — TOOLKIT REVIEW:** Which additional Office, Slack, streaming, design, media, analytics or deployment tools should be shown? Which entries should be downplayed or removed?
+> **Used, not necessarily mastered — and not necessarily programmed.** An ERP, a music tracker and a programming language are different kinds of experience. This is a practical inventory of software I've worked with, not a collection of proficiency badges. My own projects are showcased separately below.
 
 ---
 
@@ -202,7 +220,7 @@ It often started in **Excel**, then expanded into increasingly elaborate spreads
 
 Some of those early solutions were decidedly unconventional. *Gremlin Excel engineering* is probably a fair description. But the underlying habit was already there: understand the problem, design something practical, keep improving it and make it useful for the people actually doing the work.
 
-My background in day-to-day operations gives me a useful perspective: **the people using software should not have to think like the person who built it**. When something looks easy, that is often the result of very deliberate engineering.
+My background in **administrative organization and internal control (AO/IC)**, writing manuals, training colleagues and day-to-day operations shaped a central rule: **never assume the person using a tool knows what its designer knows**. The people using software should not have to think like the person who built it. When something looks easy, that is often the result of very deliberate engineering.
 
 > [!WARNING]
 > **DATA MISSING — THE HUMAN STORY:** Fill in the approved public version of my work history, years of spreadsheet/automation experience, online history, creative interests and personal background. **Do not publish employer identifiers, personal records or other private-life details by guesswork.**
