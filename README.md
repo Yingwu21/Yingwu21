@@ -69,7 +69,7 @@ The quick version stays short on purpose. The longer inventory is tucked away fo
 
 The hierarchy matters more than the repository count: one private codebase can power numerous independent applications, products and interfaces.
 
-<img src="./assets/project-stenteam.svg?v=stenteam-brand-v2" width="100%" alt="StenTeam — Making everyday operations a little easier. Sheets, Tools and Workflows." />
+<img src="./assets/project-stenteam.webp?v=approved-image-20261116" width="100%" alt="StenTeam — Making everyday operations a little easier. Sheets, Tools and Workflows." />
 
 **The premise:** day-to-day work should not require a degree in deciphering spreadsheets.
 
