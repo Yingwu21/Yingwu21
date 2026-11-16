@@ -110,70 +110,42 @@ What started as Google Sheets, workplace utilities and manually launched Slack W
 
 Behind the visible modules, supporting applications keep the experience connected. The public overview focuses on **what each module helps people do**, rather than exposing internal processes or implementation details.
 
-*These are 13 visible portal destinations, not a claim of 13 separately deployed applications. Individual components may have different release states.*
-
 ### 02 · Azalea Antiquary
 
 <img src="./assets/project-azalea.svg" width="100%" alt="Azalea Antiquary — worlds to explore and ideas to play with" />
 
 **The premise:** virtual worlds should reward curiosity, creativity and the occasional extremely unnecessary level of engineering.
 
-An umbrella for Second Life experiences, creator utilities, store systems and experiments. **Second World belongs here**: it's a major flagship project, not an unrelated fourth project family.
+**Azalea Antiquary** is my Second Life creative brand: everything from tiny pieces of deliberate nonsense and practical creator tools to games, web-connected services and a world-scale exploration project.
 
-**The family at a glance:**
+They may look nothing alike, but each began with a different question about what I could make, what I'd need to learn, and how someone else's experience could be better because of it.
 
-`Second World` · `Creator systems` · `Dynamic Display` · `Commission Works` · `Parrot's Plunder` · `Daily Affirmations` · `Store-owner tools` · `Cabinet of Minor Nonsense`
-
-<details open>
-<summary><strong>SECOND WORLD · Flagship exploration and mapping platform</strong></summary>
-
-<br />
-
-A large-scale attempt to make the geography and discoveries of Second Life more explorable. Its components cover collecting world evidence, assembling a useful atlas, and building tools around the information — all while being explicit about what is known, outdated or unverified.
-
-| Level 2 component | Focus |
-| :--- | :--- |
-| **Collective Atlas** | A geographic view of the Second Life world and its changing landscape. |
-| **Wayfinder** | In-world navigation and exploration. |
-| **Research Stations / Surveyors** | Structured observation and mapping work. |
-| **Hivemind & diagnostics** | Research visibility, analysis and quality checks. |
-| **Indexing & world snapshots** | The infrastructure that turns observations into useful geographic knowledge. |
-| **Research experiments** | Investigating more advanced ways to support discovery, separate from the core atlas experience. |
-
-**Public example:** [Explore the Collective Atlas](https://yingwuazalea.pages.dev/SecondWorld)
-
-</details>
+**At a glance:** `Creative experiments` · `Practical scripts` · `Creator tools` · `Interactive games` · `Connected services` · `World exploration`
 
 <details>
-<summary><strong>CREATOR SYSTEMS · Build, display and preserve things</strong></summary>
+<summary><strong>EXPLORE AZALEA ANTIQUARY · 11 projects and product collections</strong></summary>
 
 <br />
 
-| Project | Focus |
+| Project / collection | The idea and the challenge |
 | :--- | :--- |
-| **Dynamic Display Builder & Catalogue** | A design-and-display system with a structured catalogue and creator-facing tools. |
-| **Creator Desk** | Presentation and creation tools with deliberate visual consistency. |
-| **The Commission Works** | Projects, creative commissions and their supporting workflow. |
-| **Store-owner scripts** | Behind-the-scenes utilities that support a Second Life creator's work. |
-
-**Level 0:** Azalea Antiquary → **Level 1:** Creator systems → **Level 2:** Product tools, catalogues, displays and supporting services.
-
-</details>
-
-<details>
-<summary><strong>GAMES, ODDITIES & SMALLER PRODUCTS · The wonderfully unnecessary department</strong></summary>
-
-<br />
-
-- **Parrot's Plunder** — a playful Second Life experience with real systems behind the fun.
-- **The Daily Affirmation Programme** — proof that even a tiny, cheerful idea can receive an alarming amount of polish.
-- **Cabinet of Minor Nonsense** — a home for smaller products, experiments and delightful diversions.
-- **Other Azalea products** — a larger inventory to be audited before presenting exact numbers.
+| **Cabinet of Minor Nonsense** | A diverse collection of deliberately ridiculous little products that put old-fashioned Second Life conventions to work in surprisingly robust, polished and personal ways. |
+| **Commission Works** | Taking the lessons of Creator Desk much further: a web-connected creator system exploring an alternative to one-time sales, with a first product licence included and additional licences for further product launches. Product preparation, packaging and delivery all had to work together coherently. |
+| **HUD Systems Collection** | Early experiments in presenting online media inside a convenient on-screen interface. When YouTube embeds wouldn't cooperate, the solution involved a website-based video wrapper instead. |
+| **The Inappropriate DJ** | An early creative project from before I could develop my own scripts, using Canva and repurposed Second Life functionality to make something new. |
+| **Muffin's Mockery** | Early AI-assisted artwork experiments where the challenge was maintaining a deliberately consistent visual identity across many themed variations. |
+| **Scripts** | Practical LSL solutions for very different people and problems, from tiny single-purpose helpers to extensive, interconnected store systems. Includes specialized work such as the #RLV Folderwright. |
+| **Trivia Girls** | Starting from a limited trivia script and developing a sturdier, multi-mode experience to discover what makes a game both dependable **and** fun. |
+| **Second World** | The flagship collaborative exploration project: combining large-scale geographic data collection, mapping and visualization with shared discovery and the human challenge of understanding what the data actually means. |
+| **Dynamic Display** | A deep dive into SVG: using simple shapes to build an extensive catalogue of reusable icons, emblems and components for modular, customizable display signs. |
+| **Creator Desk** | Helping creators prepare more consistent products and catch easy-to-miss problems, such as permissions. The experience laid the groundwork for Commission Works. |
+| **Parrot's Plunder** | Building an actual interactive game rather than just functional scripted objects, bringing payments, raycasting, dynamic spawning, pickups and hit detection together into enjoyable gameplay. |
 
 </details>
 
-> [!WARNING]
-> **DATA MISSING — AZALEA PRODUCT AUDIT:** Confirm the number of distinct Store Owner Scripts, Cabinet of Minor Nonsense products, games, creator tools and Second World subproducts. **A catalogue design, a product, an installation and a source-code revision are NOT interchangeable units.** Counts and release statuses must be checked before publishing.
+**The common thread:** different audiences, constraints and lessons — but always an attempt to make something more useful, more reliable or simply more enjoyable.
+
+**Public example:** [Explore the Second World Collective Atlas](https://yingwuazalea.pages.dev/SecondWorld)
 
 ### 03 · Personal Projects
 
