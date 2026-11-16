@@ -143,6 +143,8 @@ Early projects started by adapting other creators' kits, scripts and templates. 
 
 </details>
 
+**Behind the storefront:** I also built a **private Azalea Antiquary budget and project-accounting dashboard** to keep track of business income, expenses and costs across projects. Second Life Marketplace sales can be recorded automatically through its ANS notifications. The financial records are not public — this is another example of connecting in-world commerce with practical web-based administration.
+
 **The common thread:** different audiences, constraints and lessons — with an emphasis on **ease of use**, thoughtful design and making something more reliable, useful or enjoyable. More features aren't helpful if people need to read a script just to change a setting.
 
 
@@ -152,36 +154,31 @@ Early projects started by adapting other creators' kits, scripts and templates. 
 
 **The premise:** if a better personal tool could exist, why not accidentally build an entire system for it?
 
-A collection of projects for organizing life, tracking interests, supporting streaming and making personal data genuinely usable. Not all of it is public — nor should it be.
+My personal projects turn hobbies, history and everyday information into interfaces I'd actually enjoy using. Some are public experiments anyone can explore; others are private by design — it's the *tools* that belong in a portfolio, not the personal records inside them.
 
-**The family at a glance:**
+**Public projects · Take a look**
 
-`Media` · `Movies & TV` · `Subscriptions` · `Bowling` · `Streaming catalogue` · `Personal dashboards` · `Yingwu Nova`
+| Project | What it explores |
+| :--- | :--- |
+| **[Social History](https://yingwuazalea.pages.dev/yingwu/social)** | Turning years of YouTube subscriptions and Facebook follows into a visual history of changing interests. |
+| **[Bowling with Madosho](https://yingwuazalea.pages.dev/yingwu/bowling)** | Tracking sessions, scores and technique in a focused, approachable dashboard, without the overhead of a general-purpose reporting tool. |
+| **[Movies & TV](https://yingwuazalea.pages.dev/yingwu/media)** | Making a personal media collection, viewing history and watch progress easy to explore, organize and revisit. |
 
 <details>
-<summary><strong>EXPAND PERSONAL PROJECTS · Utilities, streaming and creative work</strong></summary>
+<summary><strong>EXPAND MORE PERSONAL PROJECTS · Private utilities and creative tools</strong></summary>
 
 <br />
 
-| Family | Example projects |
+| Area | What I've explored |
 | :--- | :--- |
-| **Media & collections** | Movies, TV, catalogue and history tools. |
-| **Subscriptions & social history** | Personal history and subscription overviews. |
-| **Bowling** | Session records, scores, comparisons and progress over time. |
-| **Streaming tools** | Streaming catalogue, stream-related utilities and supporting organization. |
-| **Personal dashboards** | Small web interfaces that turn complicated personal records into usable views. |
-| **Yingwu Nova** | Character identity, VTuber assets, illustrations and an extensive visual design workflow. |
-| **Other experiments** | The little tools that usually begin with *"surely this won't be complicated..."* |
-
-**Public example:** [Bowling overview](https://yingwuazalea.pages.dev/yingwu/bowling) · [Social history](https://yingwuazalea.pages.dev/yingwu/social)
+| **Personal finance monitoring** | A private dashboard that turns financial history into clearer trends and comparisons. The actual figures and records stay private. |
+| **Media & collection utilities** | Practical tools for organizing media libraries, collections and playlists — including moving music data between services. |
+| **Streaming & Yingwu Nova** | Supporting a VTuber identity with character artwork, stream assets, interactive features and a carefully organized visual-production workflow. |
+| **Other small experiments** | The little ideas that begin with *"surely this won't be complicated..."* and occasionally turn into an entire project. |
 
 </details>
 
-> [!WARNING]
-> **DATA MISSING — PERSONAL CATALOGUE:** Verify how many distinct streaming tools, media utilities, dashboards and Nova asset families belong here. Identify which are suitable for public description and which must remain private. Confirm whether a public Media demo exists.
-
-> [!WARNING]
-> **PUBLIC LINK CHECK REQUIRED:** The Second World, Bowling and Social History URLs above are documented in the project source, but their current availability to an **unauthenticated visitor** has not yet been independently verified for this profile. Check each before treating it as a confirmed public showcase.
+**The common thread:** taking information I already have and making it more understandable, enjoyable or useful — without requiring someone else to use the same tools or expose the same data.
 
 ---
 
