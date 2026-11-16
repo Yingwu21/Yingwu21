@@ -108,9 +108,7 @@ What started as Google Sheets, workplace utilities and manually launched Slack W
 
 Behind the visible modules, supporting applications keep the experience connected. The public overview focuses on **what each module helps people do**, rather than exposing internal processes or implementation details.
 
-### 02 · Azalea Antiquary
-
-<img src="./assets/project-azalea.svg" width="100%" alt="Azalea Antiquary — worlds to explore and ideas to play with" />
+<img src="./assets/project-azalea.png?v=approved-20261116" width="100%" alt="Azalea Antiquary — curious products, scripted mischief, and tropical elegance" />
 
 **The premise:** virtual worlds should reward curiosity, creativity and the occasional extremely unnecessary level of engineering.
 
