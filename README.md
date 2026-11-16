@@ -118,7 +118,7 @@ Behind the visible modules, supporting applications keep the experience connecte
 
 **Azalea Antiquary** is my Second Life creative brand: everything from deliberately silly interactions and practical creator tools to games, web-connected services and a world-scale exploration project.
 
-Each project began with a different question: what could be improved, what could be made possible, and how could the result be easier to use? The projects below follow the approximate progression from early experiments to larger connected systems.
+Early projects started by adapting other creators' kits, scripts and templates. That taught me a lot — including how limiting and expensive it could become to depend on someone else's solutions. Eventually, the question shifted from *"what can I make with this?"* to *"why not build a better option myself?"* The projects below follow that approximate progression, without pretending every later project fits neatly into a chapter.
 
 **At a glance:** `Creative experiments` · `Practical scripts` · `Creator tools` · `Interactive games` · `Connected services` · `World exploration`
 
@@ -129,9 +129,9 @@ Each project began with a different question: what could be improved, what could
 
 | Project / collection | The idea and the challenge |
 | :--- | :--- |
-| **The Inappropriate DJ** | An early creative project from before I could develop my own scripts, using Canva and repurposed Second Life functionality to make something new. |
-| **Trivia Girls** | Starting from a limited trivia script and developing a sturdier, multi-mode experience to discover what makes a game both dependable **and** fun. |
-| **Muffin's Mockery** | Early AI-assisted artwork experiments where the challenge was maintaining a deliberately consistent visual identity across many themed variations. |
+| **The Inappropriate DJ** | One of my first experiments, combining Canva artwork with another creator's Marketplace kit. Making something original from existing components taught me both their possibilities and their limits. |
+| **Trivia Girls** | Started with someone else's restrictive trivia script and expanded it into a sturdier game with multiple modes. The experience revealed how much better — and more affordable — it could be to develop the missing functionality ourselves. |
+| **Muffin's Mockery** | Another early example of building on someone else's work: a full-permission canvas brought to life with my own AI-assisted textures. The challenge was keeping the look and theme consistent across every variation. |
 | **HUD Systems Collection** | Early experiments in presenting online media inside a convenient on-screen interface. When YouTube embeds wouldn't cooperate, the solution involved a website-based video wrapper instead. |
 | **Scripts** | LSL tools for very different people and problems, from tiny helpers to interconnected store systems. A recurring goal was replacing script-editing chores with consistent, understandable menus — so setting up a door, light or hover text wouldn't require learning code or vectors. Also includes specialized work such as the #RLV Folderwright. |
 | **Parrot's Plunder** | Building an actual interactive game rather than just functional scripted objects, bringing payments, raycasting, dynamic spawning, pickups and hit detection together into enjoyable gameplay. |
