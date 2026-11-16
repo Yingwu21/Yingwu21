@@ -116,9 +116,9 @@ Behind the visible modules, supporting applications keep the experience connecte
 
 **The premise:** virtual worlds should reward curiosity, creativity and the occasional extremely unnecessary level of engineering.
 
-**Azalea Antiquary** is my Second Life creative brand: everything from tiny pieces of deliberate nonsense and practical creator tools to games, web-connected services and a world-scale exploration project.
+**Azalea Antiquary** is my Second Life creative brand: everything from deliberately silly interactions and practical creator tools to games, web-connected services and a world-scale exploration project.
 
-They may look nothing alike, but each began with a different question about what I could make, what I'd need to learn, and how someone else's experience could be better because of it.
+Each project began with a different question: what could be improved, what could be made possible, and how could the result be easier to use? The projects below follow the approximate progression from early experiments to larger connected systems.
 
 **At a glance:** `Creative experiments` · `Practical scripts` · `Creator tools` · `Interactive games` · `Connected services` · `World exploration`
 
@@ -129,23 +129,23 @@ They may look nothing alike, but each began with a different question about what
 
 | Project / collection | The idea and the challenge |
 | :--- | :--- |
-| **Cabinet of Minor Nonsense** | A diverse collection of deliberately ridiculous little products that put old-fashioned Second Life conventions to work in surprisingly robust, polished and personal ways. |
-| **Commission Works** | Taking the lessons of Creator Desk much further: a web-connected creator system exploring an alternative to one-time sales, with a first product licence included and additional licences for further product launches. Product preparation, packaging and delivery all had to work together coherently. |
-| **HUD Systems Collection** | Early experiments in presenting online media inside a convenient on-screen interface. When YouTube embeds wouldn't cooperate, the solution involved a website-based video wrapper instead. |
 | **The Inappropriate DJ** | An early creative project from before I could develop my own scripts, using Canva and repurposed Second Life functionality to make something new. |
-| **Muffin's Mockery** | Early AI-assisted artwork experiments where the challenge was maintaining a deliberately consistent visual identity across many themed variations. |
-| **Scripts** | Practical LSL solutions for very different people and problems, from tiny single-purpose helpers to extensive, interconnected store systems. Includes specialized work such as the #RLV Folderwright. |
 | **Trivia Girls** | Starting from a limited trivia script and developing a sturdier, multi-mode experience to discover what makes a game both dependable **and** fun. |
-| **Second World** | The flagship collaborative exploration project: combining large-scale geographic data collection, mapping and visualization with shared discovery and the human challenge of understanding what the data actually means. |
-| **Dynamic Display** | A deep dive into SVG: using simple shapes to build an extensive catalogue of reusable icons, emblems and components for modular, customizable display signs. |
-| **Creator Desk** | Helping creators prepare more consistent products and catch easy-to-miss problems, such as permissions. The experience laid the groundwork for Commission Works. |
+| **Muffin's Mockery** | Early AI-assisted artwork experiments where the challenge was maintaining a deliberately consistent visual identity across many themed variations. |
+| **HUD Systems Collection** | Early experiments in presenting online media inside a convenient on-screen interface. When YouTube embeds wouldn't cooperate, the solution involved a website-based video wrapper instead. |
+| **Scripts** | LSL tools for very different people and problems, from tiny helpers to interconnected store systems. A recurring goal was replacing script-editing chores with consistent, understandable menus — so setting up a door, light or hover text wouldn't require learning code or vectors. Also includes specialized work such as the #RLV Folderwright. |
 | **Parrot's Plunder** | Building an actual interactive game rather than just functional scripted objects, bringing payments, raycasting, dynamic spawning, pickups and hit detection together into enjoyable gameplay. |
+| **Creator Desk** | Helping creators prepare more consistent products and catch easy-to-miss problems, such as permissions. The experience laid the groundwork for Commission Works. |
+| **Dynamic Display** | A deep dive into SVG: using simple shapes to build an extensive catalogue of reusable icons, emblems and components for modular, customizable display signs. |
+| **Commission Works** | Taking the lessons of Creator Desk much further: a web-connected creator system exploring an alternative to one-time sales, with a first product licence included and additional licences for further product launches. Product preparation, packaging and delivery all had to work together coherently. |
+| **Cabinet of Minor Nonsense** | A diverse collection of deliberately ridiculous little products that put old-fashioned Second Life conventions to work in surprisingly robust, polished and personal ways. |
+| **Second World** | The flagship collaborative exploration project: combining large-scale geographic data collection, mapping and visualization with shared discovery and the human challenge of understanding what the data actually means. |
 
 </details>
 
-**The common thread:** different audiences, constraints and lessons — but always an attempt to make something more useful, more reliable or simply more enjoyable.
+**The common thread:** different audiences, constraints and lessons — with an emphasis on **ease of use**, thoughtful design and making something more reliable, useful or enjoyable. More features aren't helpful if people need to read a script just to change a setting.
 
-**Public example:** [Explore the Second World Collective Atlas](https://yingwuazalea.pages.dev/SecondWorld)
+**Public examples:** [Explore the Second World Collective Atlas](https://yingwuazalea.pages.dev/SecondWorld) · [Try the Commission Works demo](https://yingwuazalea.pages.dev/CommissionWorks/Demo)
 
 ### 03 · Personal Projects
 
