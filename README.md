@@ -154,15 +154,17 @@ Early projects started by adapting other creators' kits, scripts and templates. 
 
 **The premise:** if a better personal tool could exist, why not accidentally build an entire system for it?
 
-My personal projects turn hobbies, history and everyday information into interfaces I'd actually enjoy using. Some are public experiments anyone can explore; others are private by design — it's the *tools* that belong in a portfolio, not the personal records inside them.
+For years, I made Excel, Google Sheets and reporting tools do jobs they weren't really designed for. The results *worked*, but they weren't always pleasant to look at, easy to navigate or particularly informative. Moving to dedicated websites meant I could finally design around the experience I wanted, rather than the limitations of the tools I happened to know.
+
+Some of these projects are public and open to explore. Others stay private, because the work behind a useful dashboard is worth sharing — the personal records inside it aren't.
 
 **Public projects · Take a look**
 
-| Project | What it explores |
+| Project | From makeshift tools to something better |
 | :--- | :--- |
-| **[Social History](https://yingwuazalea.pages.dev/yingwu/social)** | Turning years of YouTube subscriptions and Facebook follows into a visual history of changing interests. |
-| **[Bowling with Madosho](https://yingwuazalea.pages.dev/yingwu/bowling)** | Tracking sessions, scores and technique in a focused, approachable dashboard, without the overhead of a general-purpose reporting tool. |
-| **[Movies & TV](https://yingwuazalea.pages.dev/yingwu/media)** | Making a personal media collection, viewing history and watch progress easy to explore, organize and revisit. |
+| **[Social History](https://yingwuazalea.pages.dev/yingwu/social)** | Years of YouTube subscription and Facebook follow records transformed into an explorable visual history of changing interests, rather than information buried in tables. |
+| **[Bowling with Madosho](https://yingwuazalea.pages.dev/yingwu/bowling)** | From unwieldy Excel dashboards to a Data Studio attempt that somehow needed around **13 GB of RAM just to edit**. A purpose-built website now makes sessions, scores and technique far easier to explore. |
+| **[Movies & TV](https://yingwuazalea.pages.dev/yingwu/media)** | Once little more than spreadsheet flags for *watched*, *rewatch* and *owned but unwatched*. Now a richer media dashboard, bringing Plex exports into the website through Apps Script and adding IMDb/TMDB context, viewing history and progress. |
 
 <details>
 <summary><strong>EXPAND MORE PERSONAL PROJECTS · Private utilities and creative tools</strong></summary>
@@ -171,14 +173,14 @@ My personal projects turn hobbies, history and everyday information into interfa
 
 | Area | What I've explored |
 | :--- | :--- |
-| **Personal finance monitoring** | A private dashboard that turns financial history into clearer trends and comparisons. The actual figures and records stay private. |
+| **Personal finance monitoring** | Replacing tables, heatmaps and sparklines in spreadsheets with a coherent private website for financial history, trends and comparisons. The actual figures and records stay private. |
 | **Media & collection utilities** | Practical tools for organizing media libraries, collections and playlists — including moving music data between services. |
 | **Streaming & Yingwu Nova** | Supporting a VTuber identity with character artwork, stream assets, interactive features and a carefully organized visual-production workflow. |
 | **Other small experiments** | The little ideas that begin with *"surely this won't be complicated..."* and occasionally turn into an entire project. |
 
 </details>
 
-**The common thread:** taking information I already have and making it more understandable, enjoyable or useful — without requiring someone else to use the same tools or expose the same data.
+**The common thread:** **making something function is not the same as making it work well for people.** The move from increasingly elaborate spreadsheets to dedicated interfaces wasn't just about prettier screens; it made the same ideas easier to understand, more useful and much more enjoyable to use.
 
 ---
 
