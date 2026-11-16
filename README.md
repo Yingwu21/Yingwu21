@@ -138,14 +138,14 @@ Early projects started by adapting other creators' kits, scripts and templates. 
 | **Creator Desk** | Helping creators prepare more consistent products and catch easy-to-miss problems, such as permissions. The experience laid the groundwork for Commission Works. |
 | **Dynamic Display** | A deep dive into SVG: using simple shapes to build an extensive catalogue of reusable icons, emblems and components for modular, customizable display signs. |
 | **Commission Works** | Taking the lessons of Creator Desk much further: a web-connected creator system exploring an alternative to one-time sales, with a first product licence included and additional licences for further product launches. Product preparation, packaging and delivery all had to work together coherently. |
-| **Cabinet of Minor Nonsense** | A diverse collection of deliberately ridiculous little products that put old-fashioned Second Life conventions to work in surprisingly robust, polished and personal ways. |
+| **Cabinet of Minor Nonsense** | Genuinely useful little products disguised as pompous, almost-sentient bureaucracy. Korax's mischievous spirit turns a simple random choice into an ordeal, a focus timer into an attention-seeking nuisance, and sincere affirmations into slightly questionable encouragement. The apparent simplicity hides carefully coordinated, dependable interactions — the joke should never get in the way of the actual function. |
 | **Second World** | The flagship collaborative exploration project: combining large-scale geographic data collection, mapping and visualization with shared discovery and the human challenge of understanding what the data actually means. |
 
 </details>
 
 **The common thread:** different audiences, constraints and lessons — with an emphasis on **ease of use**, thoughtful design and making something more reliable, useful or enjoyable. More features aren't helpful if people need to read a script just to change a setting.
 
-**Public examples:** [Explore the Second World Collective Atlas](https://yingwuazalea.pages.dev/SecondWorld) · [Try the Commission Works demo](https://yingwuazalea.pages.dev/CommissionWorks/Demo)
+**Public examples:** [Explore the Second World Collective Atlas](https://yingwuazalea.pages.dev/SecondWorld) · [Try the Commission Works demo](https://yingwuazalea.pages.dev/CommissionWorks/Demo) · [Visit the Daily Affirmation Programme](https://yingwuazalea.pages.dev/DailyAffirmation/)
 
 ### 03 · Personal Projects
 
