@@ -188,10 +188,11 @@ It often started in **Excel**, then expanded into increasingly elaborate spreads
 
 Some of those early solutions were decidedly unconventional. *Gremlin Excel engineering* is probably a fair description. But the underlying habit was already there: understand the problem, design something practical, keep improving it and make it useful for the people actually doing the work.
 
-My background in **administrative organization and internal control (AO/IC)**, writing manuals, training colleagues and day-to-day operations shaped a central rule: **never assume the person using a tool knows what its designer knows**. The people using software should not have to think like the person who built it. When something looks easy, that is often the result of very deliberate engineering.
+That thinking extended into **financial-process automation**: digitizing bookkeeping workflows, using OCR and mapping rules to move documents into ERP systems, and reducing repetitive work around reporting and administration. Sometimes the clever solution was wonderfully low-tech — like giving an OCR system a clearly printed clue on the paper it was scanning.
 
-> [!WARNING]
-> **DATA MISSING — THE HUMAN STORY:** Fill in the approved public version of my work history, years of spreadsheet/automation experience, online history, creative interests and personal background. **Do not publish employer identifiers, personal records or other private-life details by guesswork.**
+My background in **administrative organization and internal control (AO/IC)**, writing manuals, helping people learn unfamiliar software, training colleagues and day-to-day operations shaped a central rule: **never assume the person using a tool knows what its designer knows**. The people using software should not have to think like the person who built it. When something looks easy, that is often the result of very deliberate engineering.
+
+The same curiosity also found its way into music and creative projects in Second Life. Not everything has to be about saving time: sometimes the goal is to make creating something easier, make an experience more enjoyable, or make a deliberately ridiculous idea work with surprising reliability.
 
 ### How I actually build things
 
