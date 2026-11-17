@@ -1,19 +1,6 @@
 <p align="center">
-  <img src="./assets/yingwu-banner.png" width="100%" alt="Yingwu — Productivity, Creativity and Convenience. Making hard things feel effortless. Ceremonial-inspired plum-and-gold artwork with a phoenix banner, lotus, lanterns, cherry blossoms and an under-construction notice." />
+  <img src="./assets/yingwu-banner-final.png" width="100%" alt="Yingwu — Productivity, Creativity and Convenience. Making hard things feel effortless. Plum-and-gold artwork with a phoenix pennant, lotus, lanterns and cherry blossoms." />
 </p>
-
-<p align="center">
-  <strong>Curious questions. Very serious engineering. A wildly unreasonable number of side quests.</strong>
-</p>
-
-<p align="center">
-  <a href="#-the-short-version">Hello</a> &nbsp;·&nbsp;
-  <a href="#-things-ive-used">Toolkit</a> &nbsp;·&nbsp;
-  <a href="#-the-things-ive-built">Projects</a> &nbsp;·&nbsp;
-  <a href="#-behind-the-scenes">Behind the scenes</a>
-</p>
-
----
 
 ## ✦ The short version
 
@@ -236,4 +223,4 @@ The resulting day-to-day tools are meant to run **without needing an ongoing cha
 </p>
 
 
-<!-- FINAL PORTFOLIO CLEANUP: Once all missing-data warnings are resolved and the public inventory is verified, remove the UNDER CONSTRUCTION text from the banner artwork as the LAST finishing step. Preserve the approved banner design; replace only that notice. -->
+
