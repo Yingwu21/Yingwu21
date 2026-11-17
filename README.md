@@ -203,9 +203,13 @@ My background in **administrative organization and internal control (AO/IC)**, w
 
 **4 · Build for people, not for the machinery.** — The interface should feel obvious. The complicated machinery belongs backstage.
 
-**5 · Test, refine, repeat.** — Sometimes the right solution emerges quickly. Sometimes it takes hours of back-and-forth and hundreds of small improvements.
+**5 · "While we're at it..."** — If an issue or a worthwhile improvement appears along the way, we fold it into the development we're already doing instead of letting it linger for another day.
 
-**6 · Make it survive its own creation.** — Versioning, documentation, careful handovers, rollback plans and self-sufficient operation matter. A system shouldn't need its designer present every time somebody clicks a button.
+**6 · Test, refine, repeat.** — Sometimes the right solution emerges quickly. Sometimes it takes hours of back-and-forth and hundreds of small improvements.
+
+**7 · Make it survive its own creation.** — Versioning, documentation, careful handovers, rollback plans and self-sufficient operation matter. A system shouldn't need its designer present every time somebody clicks a button.
+
+**8 · "Now it's stable, what about..."** — Once the released version works reliably, there's room to explore bigger ideas, rethink old decisions or polish small details without urgency. We can experiment and test thoroughly against a dependable baseline, knowing the working system doesn't have to be disturbed.
 
 ### AI-assisted development ≠ one-prompt software
 
