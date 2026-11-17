@@ -144,9 +144,7 @@ Early projects started by adapting other creators' kits, scripts and templates. 
 **The common thread:** different audiences, constraints and lessons — with an emphasis on **ease of use**, thoughtful design and making something more reliable, useful or enjoyable. More features aren't helpful if people need to read a script just to change a setting.
 
 
-### 03 · Personal Projects
-
-<img src="./assets/project-personal.svg" width="100%" alt="Personal Projects — an innocent question followed by an elaborate answer" />
+<img src="./assets/project-personal.png?v=eclipse-approved-20261117" width="100%" alt="Personal Projects — From spreadsheets and side quests to genuinely useful tools." />
 
 **The premise:** if a better personal tool could exist, why not accidentally build an entire system for it?
 
